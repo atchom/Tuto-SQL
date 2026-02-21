@@ -1,6 +1,6 @@
 # Tuto-SQL
 
-## SUPPRESSION DES DOUBLONS
+## I-SUPPRESSION DES DOUBLONS
  Voici un exemple de création de la table employes avec des données qui permettront de tester le script de détection des doublons basé sur nom, prenom et la date_embauche la plus récente.
  ### Creation de la table Employes
  ```
